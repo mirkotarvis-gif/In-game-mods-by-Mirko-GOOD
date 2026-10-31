@@ -3,7 +3,7 @@ plugins {
 }
 
 base {
-	archivesName = 'shiftmenu'
+		archivesName = 'mirkos-hud'
 }
 
 repositories {
